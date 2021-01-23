@@ -1,0 +1,9 @@
+#fieldsetIdentity,#blue {
+    background-color : #2574A9;
+}
+#fieldsetLocalisation,#purple{
+    background-color: #9A12B3;
+}
+#fieldsetPayment, #red {
+    background-color: #DB0A5B;
+}
